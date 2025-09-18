@@ -15,7 +15,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v5.0.0
         with:
-          repository: Centralmatrix3/Matrix-io
+          repository: CrispShark7/Matrix-io
           path: Matrix-io-repo
 
       - name: Matrix-io
