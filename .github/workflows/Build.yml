@@ -19,7 +19,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v7.0.1
         with:
-          repository: Centralmatrix3/Network
+          repository: CrispShark7/Network
           path: Network
 
       - name: Sync Ruleset
