@@ -24,7 +24,7 @@ jobs:
 
       - name: Sync Ruleset
         run: |
-          python -m Build S Matrix-io --copy
+          python -m Build S --copy
 
       - name: Convert Rule
         run: |
