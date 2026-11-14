@@ -1,4 +1,4 @@
 <div align="center">
-  <h1>Matrix-io</h1>
+  <h3>Matrix-io</h3>
   <strong>collect resources related to proxy tools</strong>
 </div>
